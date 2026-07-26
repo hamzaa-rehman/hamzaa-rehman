@@ -1,40 +1,42 @@
 # Hi, I'm Hamza Rehman
 
-I'm a Software Engineering graduate building my career in data analytics. I enjoy working with data, writing SQL queries, creating dashboards, and finding clear answers to business questions.
+I'm a Software Engineering graduate building my career in data analytics. I work with SQL, Excel, Power BI, and Python to clean data, explore patterns, and present findings clearly.
 
 I graduated with a **3.95/4.00 CGPA** and received a **Silver Medal** for my academic performance.
 
 ## What I'm Working On
 
-* Building practical data analysis projects
-* Improving my SQL problem-solving skills
-* Learning Power BI and DAX in more depth
+* Strengthening my SQL problem-solving skills
+* Building practical data-analysis projects
+* Learning Power BI and DAX in greater depth
 * Using Python for data cleaning and analysis
-* Developing a portfolio that reflects practical work
+* Developing a focused portfolio for data-analyst roles
 
 ## Skills
 
-* **SQL:** SQL Server, joins, CTEs, subqueries, window functions, and aggregations
-* **Excel:** Data cleaning, PivotTables, formulas, charts, and dashboards
+* **SQL:** SQL Server, joins, CTEs, subqueries, aggregations, and window functions
+* **Excel:** Data preparation, formulas, PivotTables, PivotCharts, and dashboards
 * **Power BI:** Power Query, data modelling, dashboards, and DAX
 * **Python:** Pandas, NumPy, and Matplotlib
 * **Tools:** Git, GitHub, DBeaver, and Jupyter Notebook
 
-## Projects
+## Featured Projects
 
-### Comprehensive SQL Data Analysis Project
+### SQL Data Cleaning Projects
 
-A collection of SQL analyses based on practical business questions, including customer behaviour, sales performance, product analysis, and trends.
+SQL Server projects focused on cleaning housing and layoffs datasets. The work includes staging tables, CTEs, window functions, missing-value handling, duplicate removal, and data standardization.
 
-### Excel Data Analysis Project
+[View the SQL projects](https://github.com/hamzaa-rehman/SQL-Projects)
 
-An Excel-based project involving data cleaning, PivotTables, KPI reporting, charts, and an interactive dashboard.
+### Excel Dashboard Projects
+
+Excel projects focused on customer analysis, sales performance, PivotTables, PivotCharts, segmentation, and dashboard reporting.
+
+[View the Excel dashboard projects](https://github.com/hamzaa-rehman/excel-dashboard-projects)
 
 ### Donation Spot
 
 My final-year Software Engineering project, created to help connect donors with people and organisations in need.
-
-More projects will be added as I continue developing my portfolio.
 
 ## Education
 
@@ -50,5 +52,5 @@ Riphah International University, Faisalabad
 
 ## Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your professional email here
+* [LinkedIn](https://www.linkedin.com/in/syed-hamza-rehman-454534292/)
+* Email: [hamza.rehman.data@gmail.com](mailto:hamza.rehman.data@gmail.com)
