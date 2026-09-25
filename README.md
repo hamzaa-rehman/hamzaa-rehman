@@ -22,21 +22,32 @@ I graduated with a **3.95/4.00 CGPA** and received a **Silver Medal** for my aca
 
 ## Featured Projects
 
+### SQL Data Warehouse Project
+
+An end-to-end SQL Server data warehouse built on the Medallion Architecture (Bronze → Silver → Gold), integrating raw CRM and ERP data into a business-ready star schema. Covers data ingestion, cleaning, standardization, dimensional modeling, and SQL-based data quality checks, with full architecture and data flow documentation.
+
+**Tech:** SQL Server, Docker, DBeaver, Draw.io
+
+[View the Data Warehouse project](https://github.com/hamzaa-rehman/sql-data-warehouse)
+
+### SQL Data Exploratory Analysis Project
+
+A structured SQL analysis project covering trend analysis, cumulative and performance metrics, part-to-whole contribution, and customer/product segmentation. Built around a defined analytical framework — from business question to granularity, aggregation, and final reporting — using CTEs, window functions, and KPI calculations.
+
+**Tech:** SQL Server, DBeaver
+
+[View the Exploratory Analysis project](https://github.com/hamzaa-rehman/sql-data-exploratory-analysis-project)
+
 ### SQL Data Cleaning Projects
 
-SQL Server projects focused on cleaning housing and layoffs datasets. The work includes staging tables, CTEs, window functions, missing-value handling, duplicate removal, and data standardization.
+SQL Server projects focused on cleaning housing and layoffs datasets, including staging tables, CTEs, window functions, missing-value handling, duplicate removal, and data standardization.
 
 [View the SQL projects](https://github.com/hamzaa-rehman/SQL-Projects)
 
-### Excel Dashboard Projects
 
-Excel projects focused on customer analysis, sales performance, PivotTables, PivotCharts, segmentation, and dashboard reporting.
+## Other Projects
 
-[View the Excel dashboard projects](https://github.com/hamzaa-rehman/excel-dashboard-projects)
-
-### Donation Spot
-
-My final-year Software Engineering project, created to help connect donors with people and organisations in need.
+* **Donation Spot** — Final-year Software Engineering project connecting donors with people and organisations in need.
 
 ## Education
 
@@ -52,5 +63,6 @@ Riphah International University, Faisalabad
 
 ## Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/syed-hamza-rehman-454534292/)
-* Email: [hamza.rehman.data@gmail.com](mailto:hamza.rehman.data@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hamza-rehman-454534292/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzaa-rehman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.rehman.data@gmail.com)
